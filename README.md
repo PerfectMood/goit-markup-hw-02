@@ -1,2 +1,2 @@
-# goit-markup-hw-02.
-GO IT Домашнє завдання 02
+# goit-markup-hw-01
+GO IT Домашнє завдання 01
